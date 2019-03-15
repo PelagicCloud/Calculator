@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  TestCalculator.cpp
+d:\文件\course\6学期\软件工程\第0次代码作业\calculator\pelagiccloud\consolecalculator\testcalculator\testcalculator.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+  TestCalculator.vcxproj -> D:\文件\Course\6学期\软件工程\第0次代码作业\Calculator\PelagicCloud\ConsoleCalculator\Debug\TestCalculator.exe
